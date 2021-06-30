@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+
+span{
+  tab-size: 5;
+  margin-right: 7px;
+}
+
+.true{
+  text-decoration: line-through;
+  pointer-events: none;
+}
+.high{
+  color: green;
+}
+.medium{
+  color: rgb(181, 218, 19);
+}
+.low{
+  color: red;
+}
